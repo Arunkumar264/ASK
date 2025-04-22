@@ -64,6 +64,7 @@ plt.show()
 
 ## GRAPH 
 
+![WhatsApp Image 2025-04-22 at 10 46 19_8e1ca01a](https://github.com/user-attachments/assets/2eaa5dcd-ec13-482f-8796-4646bc11942c)
 
 
 
